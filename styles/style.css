@@ -35,6 +35,7 @@ body {
 .input {
   background-color: inherit;
   border: none;
+  outline: none;
 }
 .input::placeholder {
   color: #fff;
